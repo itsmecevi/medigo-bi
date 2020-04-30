@@ -69,7 +69,8 @@ Average CPI (Cost per Inquirer) for MEDIGO’s most popular procedures (EUR)
 
 **Data Source:** <a href="https://github.com/itsmecevi/medigo-data/blob/master/MEDIGO-data.xlsx">MEDIGO-data.xlsx</a>
 
+_____
 
-**Please make an analytical insight with your software or methods. You can used every software in the market, such as EXCEL, TABLEAU, or KNIME. After that please a Picthing Presentation with your own presentations software, maybe prezi, MS-Power Point, Google Slide, or VideoAsk (FEEL FREE) 
+**Please make an analytical insight with your software or methods. You can used one of the famous software in the market, such as EXCEL, TABLEAU, or KNIME. After that please created a Picthing Presentation with your own presentations software, maybe prezi, MS-Power Point, Google Slide, or VideoAsk (FEEL FREE about the Presentation formatting and software)** 
 
 
