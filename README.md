@@ -1,7 +1,8 @@
 # MEDIGO-BI
 
 ## Third party administration (TPA) services with tech-driven efficiency
-### Navigate the Global Healthcare System with world-class customer service
+
+**Navigate the Global Healthcare System with world-class customer service**
 
 
 **By: itsmecevi.github.io**
@@ -29,7 +30,7 @@ MEDIGO earns money by charging a **30%** commission on all completed treatments.
 
 ### **Task:**
 
-You are a Consulting at itsmecevi.github.io to help MEDIGO to brief a potential investor on the company's performance, revenues and profits. This investor knows very little about MEDIGO and needs to understand the business as much as possible before making his investment decision. You should find all the information needed for this analysis in the Excel file attached.
+You are a Consulting at <a href="https://itsmecevi.github.io">itsmecevi.github.io</a> to help MEDIGO to brief a potential investor on the company's performance, revenues and profits. This investor knows very little about MEDIGO and needs to understand the business as much as possible before making his investment decision. You should find all the information needed for this analysis in the Excel file attached.
 
 
 1-) Please provide insights on MEDIGO's key business and revenue metrics.
