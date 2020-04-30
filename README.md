@@ -71,6 +71,6 @@ Average CPI (Cost per Inquirer) for MEDIGO’s most popular procedures (EUR)
 
 _____
 
-**Please makes an analytical insight with your software or methods. You can used one of the famous software in the market, such as EXCEL, TABLEAU, or KNIME. After that please created a Picthing Presentation with your own presentations software, maybe prezi, MS-Power Point, Google Slide, or VideoAsk (FEEL FREE about the Presentation formatting and software)** 
+**Please get an analytical insight with your software or methods. You can used one of the famous software in the market, such as EXCEL, TABLEAU, or KNIME. After that please created a Picthing Presentation with your own presentations software, maybe prezi, MS-Power Point, Google Slide, or VideoAsk (FEEL FREE about the Presentation formatting and software)** 
 
 
