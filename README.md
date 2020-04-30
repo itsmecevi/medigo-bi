@@ -14,7 +14,7 @@
 
 ### **Background information:**
 
-MEDIGO <a href="https://www.medigo.com/">medigo.com</a> is a marketplace where patients looking to undergo a medical procedure can search for high quality clinics, inquire for the price of a procedure and exchange with clinics and hospitals in order to eventually make an informed decision on where to get the treatment they need.
+<a href="https://www.medigo.com/">MEDIGO</a> is a marketplace where patients looking to undergo a medical procedure can search for high quality clinics, inquire for the price of a procedure and exchange with clinics and hospitals in order to eventually make an informed decision on where to get the treatment they need.
 
 MEDIGO works with clinics from all around the globe and helps patients from many different countries to get in touch with clinics primarily located outside their home country. MEDIGO makes quality healthcare easily accessible.
 
