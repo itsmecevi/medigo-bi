@@ -5,7 +5,8 @@
 **Navigate the Global Healthcare System with world-class customer service**
 
 
-**By: itsmecevi.github.io**
+**<a href="https://itsmecevi.github.io">itsmecevi.github.io</a> & <a href="http://s3akuntansi.feb.unpad.ac.id/kepakaran-dr-rer-pol-hamzah-ritchi-s-e-m-bit-ak/">Dr.rer.pol. Hamzah Ritchi, S.E.,M.BIT.,Ak.</a>**
+
 
 
 
