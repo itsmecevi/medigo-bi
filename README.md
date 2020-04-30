@@ -50,11 +50,15 @@ Note: You do not need to create a comprehensive presentation to present the indu
 
 Average Basket Value for MEDIGO's most popular procedures (EUR)
 
-•	Hip Replacement: €10,000
-•	Veneers: €300
+*	Hip Replacement: €10,000
+*	Veneers: €300
+
 •	Teeth Whitening: €250
+
 •	Breast Implants: €5,000
+
 •	Cancer Treatment: €9,000
+
 •	Laser Eye Surgery: €1,000 
 
 
