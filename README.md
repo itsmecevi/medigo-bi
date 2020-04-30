@@ -1,7 +1,11 @@
 # medigo-bi
 
 
-Healthcare Business Process
+
+
+# Healthcare Business Process
+
+
 By: itsmecevi.github.io
 
 
@@ -9,7 +13,7 @@ By: itsmecevi.github.io
 **Note:** All data provided in this file has been randomly created and does not reflect the state of MEDIGO’s performance. It does, however, resemble to part of the MEDIGO data warehouse and is to be understood as a simplification of our business model.
 
 
-**Background information:**
+## **Background information:**
 
 MEDIGO is a marketplace where patients looking to undergo a medical procedure can search for high quality clinics, inquire for the price of a procedure and exchange with clinics and hospitals in order to eventually make an informed decision on where to get the treatment they need.
 
@@ -25,7 +29,7 @@ MEDIGO earns money by charging a **30%** commission on all completed treatments.
 
 
 
-**Task:**
+## **Task:**
 
 You are a Consulting at itsmecevi.github.io to help MEDIGO to brief a potential investor on the company's performance, revenues and profits. This investor knows very little about MEDIGO and needs to understand the business as much as possible before making his investment decision. You should find all the information needed for this analysis in the Excel file attached.
 
@@ -41,7 +45,7 @@ Note: You do not need to create a comprehensive presentation to present the indu
 
 
 
-**Additional information:**
+## **Additional information:**
 
 
 Average Basket Value for MEDIGO's most popular procedures (EUR)
