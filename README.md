@@ -37,7 +37,7 @@ You are a Consulting at <a href="https://itsmecevi.github.io">itsmecevi.github.i
 Conversion Rate and Cash Flow Generation are examples of important metrics for MEDIGO but there are many others.
 
 
-Note: You do not need to create a comprehensive presentation to present the industry, the business model or the company itself. Presenting key metrics and analyzing them is what matters here! 
+**Note:** You do not need to create a comprehensive presentation to present the industry, the business model or the company itself. Presenting key metrics and analyzing them is what matters here! <span>&#129311;</span>
 
 
 2-) Please also (shortly) list the information missing in the Excel document and you wish you had to your disposal to either go deeper in your analysis or to calculate some metrics. 
