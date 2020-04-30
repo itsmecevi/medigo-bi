@@ -66,3 +66,10 @@ Average CPI (Cost per Inquirer) for MEDIGO’s most popular procedures (EUR)
 * Cancer Treatment: €300
 * Laser Eye Surgery: €75
 
+
+**Data Source:** <a href="https://github.com/itsmecevi/medigo-data/blob/master/MEDIGO-data.xlsx">MEDIGO-data.xlsx</a>
+
+
+
+
+
