@@ -1,6 +1,6 @@
-# MEDIGO-BI
 
-## Third party administration (TPA) services with tech-driven efficiency
+
+## MEDIGO: Third party administration (TPA) services with tech-driven efficiency
 
 **Navigate the Global Healthcare System with world-class customer service**
 
