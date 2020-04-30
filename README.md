@@ -5,7 +5,7 @@
 **Navigate the Global Healthcare System with world-class customer service**
 
 
-**BY: <a href="https://itsmecevi.github.io">Cevi Herdian, M.Sc, SFC</a> & <a href="http://s3akuntansi.feb.unpad.ac.id/kepakaran-dr-rer-pol-hamzah-ritchi-s-e-m-bit-ak/">Dr.rer.pol. Hamzah Ritchi, S.E.,M.BIT.,Ak.</a>**
+**By: <a href="http://s3akuntansi.feb.unpad.ac.id/kepakaran-dr-rer-pol-hamzah-ritchi-s-e-m-bit-ak/">Dr.rer.pol. Hamzah Ritchi, S.E.,M.BIT.,Ak.</a> & <a href="https://itsmecevi.github.io">Cevi Herdian, M.Sc, SFC</a>**
 
 
 
