@@ -5,7 +5,7 @@
 **Navigate the Global Healthcare System with world-class customer service**
 
 
-**By: <a href="https://itsmecevi.github.io">Cevi Herdian, M.Sc, SFC</a>**
+**By: <a href="https://itsmecevi.github.io">Cevi Herdian-Data Driven Strategist</a>**
 
 
 
