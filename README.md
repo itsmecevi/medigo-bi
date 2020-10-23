@@ -75,5 +75,22 @@ _____
 
 **Please get an analytical insight with your software or methods. You can used one of the famous software in the market, such as EXCEL, TABLEAU, or KNIME. After that please created a Picthing Presentation with your own presentations software, maybe prezi, MS-Power Point, Google Slide, or VideoAsk (FEEL FREE about the Presentation formatting and software)** 
 
+Medigo Notes:
+
+* Third party administration (TPA): Outsourcing Sytems
+* Tech-driven: technology freak
+* Marketplace (e-commerce), all about marketplace
+* Patient search clinics (health procedure)
+* Costumer->medigo->clinics
+* Fasilitator->(medigo, internal clinics)
+* Medigo marketing plan (offline/online)-> 1. min(CPI), 2. max(ROI)-> value investing (user completed, ###view, services, market share, profitability, stocks###)
+* 3 fase BP (business process): 1. inquiry, 2. fasilitators, 3. cancel/completed
+* Profit: 30% from completed treatments
+* Key business & revenue matrix (marketing plan, market share, profit from services, swot analysis, BCG matrix)
+* Average Basket Value, please googling
+* CPI, please googling
+* Medigos gross profit: Average Basket Value (harga rumah)*30%
+* Medigos net profit: gross profit-CPI (per inquiry, per personal)
+
 
 
